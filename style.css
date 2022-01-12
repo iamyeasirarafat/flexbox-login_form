@@ -88,6 +88,8 @@ nav a:hover {
   border: none;
   border-radius: 10px;
   box-shadow: 1px 16px 9px -16px #2825d7;
+  color: white;
+  font-weight: 700;
 }
 .sighnup .container a:hover {
   color: #23bfbf;
